@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="refresh" content="0; url=https://creativecommons.org/publicdomain/zero/1.0/" />
+  </head>
+  
+  <body>
+        <p>Redirecting to Creative Commons website...</p>
+        <script language="javascript">
+            window.location = "https://creativecommons.org/publicdomain/zero/1.0/";
+        </script>
+    </body>
+</html>
